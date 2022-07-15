@@ -1,0 +1,38 @@
+./forest/filescan_00.4:venu                           _._       _,._---------------saur
+./forest/filescan_00.4:venu                        _.'   `. ' .'   _`.---------------saur
+./forest/filescan_00.4:venu                ,"""/`""-.-.,/. ` V'\-,`.,--/"""."-..---------------saur
+./forest/filescan_00.4:venu              ,'    `...,' . ,\-----._|     `.   /   \---------------saur
+./forest/filescan_00.4:venu             `.            .`  -'`"" .._   :> `-'   `.---------------saur
+./forest/filescan_00.4:venu            ,'  ,-.  _,.-'| `..___ ,'   |'-..__   .._ L---------------saur
+./forest/filescan_00.4:venu           .    \_ -'   `-'     ..      `.-' `.`-.'_ .|---------------saur
+./forest/filescan_00.4:venu           |   ,',-,--..  ,--../  `.  .-.    , `-.  ``.---------------saur
+./forest/filescan_00.4:venu           `.,' ,  |   |  `.  /'/,,.\/  |    \|   |---------------saur
+./forest/filescan_00.4:venu                `  `---'    `j   .   \  .     '   j---------------saur
+./forest/filescan_00.4:venu              ,__`"        ,'|`'\_/`.'\'        |\-'-, _,.---------------saur
+./forest/filescan_00.4:venu       .--...`-. `-`. /    '- ..      _,    /\ ,' .--"'  ,'".---------------saur
+./forest/filescan_00.4:venu     _'-""-    --  _`'-.../ __ '.'`-^,_`-""""---....__  ' _,-`---------------saur
+./forest/filescan_00.4:venu   _.----`  _..--.'        |  "`-..-" __|'"'         .""-. ""'--.._---------------saur
+./forest/filescan_00.4:venu  /        '    /     ,  _.+-.'  ||._'   """". .          `     .__\---------------saur
+./forest/filescan_00.4:venu `---    /        /  / j'       _/|..`  -. `-`\ \   \  \   `.  \ `-..---------------saur
+./forest/filescan_00.4:venu," _.-' /    /` ./  /`_|_,-"   ','|       `. | -'`._,   L  \ .  `.   |---------------saur
+./forest/filescan_00.4:venu`"' /  /  / ,__...-----| _.,  ,'            `|----.._`-.|' |. .` ..  .---------------saur
+./forest/filescan_00.4:venu   /  '| /.,/   \--.._ `-,' ,          .  '`.'  __,., '  ''``._ \ \`,'---------------saur
+./forest/filescan_00.4:venu  /_,'---  ,     \`._,-` \ //  / . \    `._,  -`,  / / _   |   `-L ----------------saur
+./forest/filescan_00.4:venu   /       `.     ,  ..._ ' `_/ '| |\ `._'       '-.'   `.,'     |---------------saur
+./forest/filescan_00.4:venu  '         /    /  ..   `.  `./ | ; `.'    ,"" ,.  `.    \      |---------------saur
+./forest/filescan_00.4:venu   `.     ,'   ,'   | |\  |       "        |  ,'\ |   \    `    ,L---------------saur
+./forest/filescan_00.4:venu   /|`.  /    '     | `-| '                  /`-' |    L    `._/  \---------------saur
+./forest/filescan_00.4:venu  / | .`|    |  .   `._.'                   `.__,'   .  |     |  (`---------------saur
+./forest/filescan_00.4:venu '-""-'_|    `. `.__,._____     .    _,        ____ ,-  j     ".-'"'---------------saur
+./forest/filescan_00.4:venu        \      `-.  \/.    `"--.._    _,.---'""\/  "_,.'     /-'---------------saur
+./forest/filescan_00.4:venu         )        `-._ '-.        `--"      _.-'.-""        `.---------------saur
+./forest/filescan_00.4:venu        ./            `,. `".._________...""_.-"`.          _j---------------saur
+./forest/filescan_00.4:venu       /_\.__,"".   ,.'  "`-...________.---"     .".   ,.  / \---------------saur
+./forest/filescan_00.4:venu              \_/"""-'                           `-'--(_,`"`-` zcw---------------saur
+./forest/filescan_00.4:venu---------------saur
+./.git/hooks/pre-rebase.sample:# its job, and can prevent the command from running by exiting with
+./.git/hooks/pre-rebase.sample:# This sample shows how to prevent topic branches that are already
+./.git/hooks/pre-commit.sample:# Cross platform projects tend to avoid non-ASCII filenames; prevent
+./.git/hooks/pre-commit.sample:	# even required, for portability to Solaris 10's /usr/bin/tr), since
+./.git/hooks/pre-push.sample:# This sample shows how to prevent push of commits where the log message starts
+./.git/hooks/push-to-checkout.sample:# as a starting point for convenient modification.
